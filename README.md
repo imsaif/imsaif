@@ -149,8 +149,6 @@ const imran = {
 
 ## 🎯 Design Philosophy
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
-
 <div align="center">
 
 ```mermaid
@@ -190,7 +188,7 @@ const currentProjects = {
     primary: "Building AI-powered design systems",
     learning: ["GPT-4 integration", "Design tokens automation", "ML-driven UX"],
     goals: [
-        "Launch AI design tool marketplace",
+        "Launch AI design tool",
         "Speak at design conferences", 
         "Contribute to open-source AI projects"
     ]
