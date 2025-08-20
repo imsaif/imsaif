@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Imran%20Mohammed&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Product%20Designer%20×%20AI%20Enthusiast&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7075e0&height=300&section=header&text=Imran%20Mohammed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Product%20Designer%20×%20AI%20Enthusiast&descAlignY=55&descSize=20)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Designing+Tomorrow's+Interfaces;Building+AI-Powered+Products;Crafting+Seamless+User+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7075e0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Designing+Tomorrow's+Interfaces;Building+AI-Powered+Products;Crafting+Seamless+User+Experiences)](https://git.io/typing-svg)
 
 </div>
 
@@ -126,6 +126,12 @@ const imran = {
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
+### AI Coding Assistants
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 </div>
 
 ---
@@ -133,16 +139,16 @@ const imran = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsaif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsaif&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsaif&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=7075e0&text_color=24292f&icon_color=7075e0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsaif&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=7075e0&text_color=24292f"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsaif&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imsaif&theme=default&hide_border=true&ring=7075e0&fire=7075e0&currStreakLabel=7075e0" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imsaif&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imsaif&theme=flat&no-frame=true&row=1&column=6&title_color=7075e0" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -214,8 +220,8 @@ const currentProjects = {
 
 ### 💭 *"Building tomorrow's interfaces, one pixel at a time"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=imsaif&color=2E9EF7&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/imsaif?style=flat-square&color=2E9EF7&labelColor=black)
+![Profile Views](https://komarev.com/ghpvc/?username=imsaif&color=7075e0&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/imsaif?style=flat-square&color=7075e0&labelColor=white)
 
 **⭐ Star my repositories if you find them interesting!**
 
