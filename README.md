@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7075e0&height=300&section=header&text=Imran%20Mohammed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Product%20Designer)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7075e0&height=300&section=header&text=Imran%20&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Product%20Designer)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7075e0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Designing+Tomorrow's+Interfaces;Building+AI-Powered+Products;Crafting+Seamless+User+Experiences)](https://git.io/typing-svg)
 
